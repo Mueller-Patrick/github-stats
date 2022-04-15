@@ -1,0 +1,1 @@
+html,css,scss,shell,batchfile,lex,gap,xslt,gherkin,groovy
